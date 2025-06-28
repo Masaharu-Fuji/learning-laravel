@@ -1,4 +1,15 @@
 <?php return array (
+  'askdkc/breezejp' => 
+  array (
+    'aliases' => 
+    array (
+      'Breezejp' => 'Askdkc\\Breezejp\\Facades\\Breezejp',
+    ),
+    'providers' => 
+    array (
+      0 => 'Askdkc\\Breezejp\\BreezejpServiceProvider',
+    ),
+  ),
   'barryvdh/laravel-debugbar' => 
   array (
     'aliases' => 
